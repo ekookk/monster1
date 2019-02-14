@@ -6,7 +6,7 @@
     <div class="bar hunger">
       <div style="width:{ hunger }%;">&nbsp;</div>
     </div>
-    <p>Hunger: { hunger }</p>
+    <p>mood: { hunger }</p>
   </div>
 
 
